@@ -1,0 +1,13 @@
+{
+  "name": "Lena",
+  "surname": "Maslo",
+  "films": [
+    "First film",
+    "Second film"
+  ],
+  "address": {
+    "city": "SPB",
+    "street": "Lenina",
+    "house": 100
+  }
+}
